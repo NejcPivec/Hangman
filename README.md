@@ -13,4 +13,4 @@ I am also fetching random word from API:
 
 ## Screen
 
-[Main Screen](https://github.com/NejcPivec/Hangman/blob/master/img/mainScreen.png)
+![Main Screen](https://github.com/NejcPivec/Hangman/blob/master/img/mainScreen.png)
